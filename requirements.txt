@@ -1,0 +1,2 @@
+requests==2.26.0  # Add other dependencies as needed
+# List other dependencies here
